@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue8
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: 
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "Ke\u015Fke en ba\u015F\u0131ndan buna giri\u015Fseydim dedi\u011Fim
+        \xE7ok oluyor. Fazla ya\u015Fland\u0131m art\u0131k. "
+      nextDialogue: {fileID: 11400000, guid: 6f29408a11db19a4785617bf8a65375d, type: 2}
