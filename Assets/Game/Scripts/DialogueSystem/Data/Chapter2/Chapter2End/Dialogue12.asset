@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue12
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: "\xD6yle ki bu sabah k\u0131r\u0131ld\u0131\u011F\u0131nda k\u0131z\u0131m
+      a\u011Flamaya ba\u015Flad\u0131. \u2018Baba, l\xFCtfen tamir ettirelim.\u2019
+      diye yalvard\u0131. O, beni o vaziyette evde beklerken yerine yenisini koymay\u0131
+      kendime yak\u0131\u015Ft\u0131ramad\u0131m. \r\n"
+    animateText: 1
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: ...
+      nextDialogue: {fileID: 11400000, guid: 07b5cae1ed0c31d48a71dc4c1095fbda, type: 2}
+      nextScene: 

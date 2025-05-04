@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue5
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: 
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "Bakal\u0131m, bu bitmeden gelecek mi?  \"Derken d\xFCkkan kap\u0131s\u0131
+        a\xE7\u0131ld\u0131, zil her g\xFCn defalarca duydu\u011Fum o melodiyi \xE7aladursun,
+        kum saatinin sahibi i\xE7eri girdi.  \""
+      nextDialogue: {fileID: 11400000, guid: b04aa0692b8caea4f8decfce288035aa, type: 2}
+      nextScene: 

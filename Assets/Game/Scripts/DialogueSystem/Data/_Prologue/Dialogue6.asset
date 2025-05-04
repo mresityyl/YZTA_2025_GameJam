@@ -15,7 +15,10 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "\u015Eikayet\xE7i de\u011Filim tabi\u2026 "
       nextDialogue: {fileID: 11400000, guid: 6a8ffba360c41be43bc2cc51e61716d5, type: 2}
+      nextScene: 

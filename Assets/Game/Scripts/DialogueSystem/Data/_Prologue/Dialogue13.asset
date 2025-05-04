@@ -15,7 +15,10 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "Ama ilki i\xE7in bir faydam dokunuyorsa ne mutlu bana. "
       nextDialogue: {fileID: 11400000, guid: 0821aaf7cd29de14f9db4420fc126cd1, type: 2}
+      nextScene: 

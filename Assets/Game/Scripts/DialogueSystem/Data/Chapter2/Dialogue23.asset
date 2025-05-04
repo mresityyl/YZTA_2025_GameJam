@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue23
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: 
+    buttonTextAnimation: 1
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Gen\xE7 adam, neredeyse hi\xE7 d\xFC\u015F\xFCnmeden cevap verdi. 
+        \""
+      nextDialogue: {fileID: 11400000, guid: 859cd351d913e424d8eaa9d6a789b583, type: 2}
+      nextScene: 

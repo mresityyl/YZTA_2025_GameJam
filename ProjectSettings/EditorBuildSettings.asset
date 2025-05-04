@@ -9,11 +9,17 @@ EditorBuildSettings:
     path: Assets/Game/Scenes/Prologue.unity
     guid: e28cbc6d966b7d14091eef4a4e36656a
   - enabled: 1
-    path: Assets/Game/Scenes/Chapter1.unity
+    path: Assets/Game/Scenes/Chapter2.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Game/Scenes/DigitalClockPuzzle.unity
+    path: Assets/Game/Scenes/Chapter2Puzzle.unity
     guid: f3b526fa7b3234649a3b0ed341a42f58
+  - enabled: 1
+    path: Assets/Game/Scenes/Chapter2End.unity
+    guid: 92031468385e9f0468578980f598c87d
+  - enabled: 1
+    path: Assets/Game/Scenes/Epilogue.unity
+    guid: 607155354783b0a45bb43e8a3cadb667
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

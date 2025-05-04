@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue18
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: "Bahad\u0131r."
+    animateText: 0
+    istThought: 0
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: " Kum denizden geldi\u011Fi i\xE7in, de\u011Fil mi?  "
+      nextDialogue: {fileID: 11400000, guid: 60164a4a4e17b06499c074de1ca78b7d, type: 2}
+      nextScene: 

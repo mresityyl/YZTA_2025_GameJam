@@ -15,8 +15,11 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "Ya\u015Fam\u0131m\u0131z\u0131n saniyelerini \xF6l\xE7en kalp
         de atmay\u0131 b\u0131rak\u0131veriyor. "
       nextDialogue: {fileID: 11400000, guid: 96388e10877da5d48812f48b4bd96f14, type: 2}
+      nextScene: 

@@ -15,7 +15,10 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "Maalesef, ikincisine bir \xE7are yok. "
       nextDialogue: {fileID: 11400000, guid: accb62567bc78744f913d097f6d924cc, type: 2}
+      nextScene: 

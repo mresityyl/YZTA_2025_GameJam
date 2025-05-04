@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue20
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: 'Evet.
+
+'
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Birka\xE7 kere g\xF6zlerini k\u0131rp\u0131\u015Ft\u0131rmas\u0131n\u0131n
+        ard\u0131ndan, o da en sonunda garip ne\u015Feme ortak oldu.  \""
+      nextDialogue: {fileID: 11400000, guid: e8c9469dfdd8ee94e82d5b01dfc62aa3, type: 2}
+      nextScene: 

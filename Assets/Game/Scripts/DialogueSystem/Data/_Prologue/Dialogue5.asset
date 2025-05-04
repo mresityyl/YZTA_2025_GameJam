@@ -15,6 +15,8 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "Emekli olduktan sonra a\xE7ar,, kendim saatlerle u\u011Fra\u015F\u0131r,
@@ -23,3 +25,4 @@ MonoBehaviour:
         bir bakm\u0131\u015F\u0131m emeklilik falan yalan olmu\u015F, her g\xFCn
         t\u0131kl\u0131m t\u0131kl\u0131m.  "
       nextDialogue: {fileID: 11400000, guid: fa3f1b1e82e4a4d4dac4fb8f2d9ebd9f, type: 2}
+      nextScene: 
