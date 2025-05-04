@@ -15,8 +15,11 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "Zaman\u0131 anlamland\u0131rmak, kullanmak i\xE7in yapt\u0131\u011F\u0131m\u0131z
         saatler duruyor, bozuluveriyor.  "
       nextDialogue: {fileID: 11400000, guid: 3feed1593d62d214882dc2a2fe72067c, type: 2}
+      nextScene: 

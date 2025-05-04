@@ -15,8 +15,11 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "Zaman her \u015Feyin ilac\u0131 diyoruz, peki bizzat zaman\u0131n
         ilac\u0131 ne diye d\xFC\u015F\xFCnmeden edemiyor insan. "
       nextDialogue: {fileID: 11400000, guid: 924ca6e9010fc5147a29d187e2f86d53, type: 2}
+      nextScene: 

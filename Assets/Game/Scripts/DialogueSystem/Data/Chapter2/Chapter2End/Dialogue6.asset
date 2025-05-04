@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue6
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: "Ah, ger\xE7ekten de tamir etmi\u015Fsiniz! Siz zanaatk\xE2rlar, halk\u0131n
+      \xE7\u0131nar\u0131s\u0131n\u0131z! \r\n"
+    animateText: 1
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"\xC7al\u0131\u015Fan kum saatini g\xF6rmesiyle adam\u0131n g\xF6zlerinin
+        parlamas\u0131, tezgah\u0131n \xF6n\xFCnde bitmesi bir oldu.  \""
+      nextDialogue: {fileID: 11400000, guid: 6d11cbf2dd6f434478bd008273e16d05, type: 2}
+      nextScene: 

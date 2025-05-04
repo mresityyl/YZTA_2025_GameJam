@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue8
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: "Sel\xE2m\xFCn aleyk\xFCm, esen duras\u0131n!\r\n"
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Benzer \u015Fekilde, ge\xE7mi\u015F \xE7ok detayl\u0131 bir
+        yerdi. \u015Eu anda kar\u015F\u0131mdaki adam\u0131n hangi y\xFCzy\u0131ldan
+        oldu\u011Funu kestirmek de kolay i\u015F de\u011Fildi.  \""
+      nextDialogue: {fileID: 11400000, guid: 8720129b65fb6844c9e75b968311f8f0, type: 2}
+      nextScene: 

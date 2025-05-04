@@ -15,8 +15,11 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "Gelenlerin ne zamana ait oldu\u011Funu kestirmekte de gitgide
         zorlan\u0131yorum ger\xE7i.  "
       nextDialogue: {fileID: 11400000, guid: f3b247127aa38da42a076d6d63393c4f, type: 2}
+      nextScene: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue22
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: "Te\u015Fekk\xFCr ederim. Ayn\u0131 vakitte ya\u015Fand\u0131\u011F\u0131
+      s\xFCrece, ayn\u0131 d\xFC\u015F\xFCncelerin de ak\u0131l edilmesi herhalde
+      ka\xE7\u0131n\u0131lmaz olacak. \r\n"
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 1
+      choiceText: "\"Ama normal \u015Fartlarda bizi ay\u0131rmas\u0131 gereken y\xFCzy\u0131llar\u0131n
+        bile d\xFC\u015F\xFCncelerimizi ve mutluluklar\u0131m\u0131z\u0131 benzer
+        olmaktan al\u0131kolayamaca\u011F\u0131n\u0131, ben yine de biliyordum. \""
+      nextDialogue: {fileID: 0}
+      nextScene: Epilogue

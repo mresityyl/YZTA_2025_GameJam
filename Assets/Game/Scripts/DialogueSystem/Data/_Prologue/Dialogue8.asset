@@ -15,8 +15,11 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "Ke\u015Fke en ba\u015F\u0131ndan buna giri\u015Fseydim dedi\u011Fim
         \xE7ok oluyor. Fazla ya\u015Fland\u0131m art\u0131k. "
       nextDialogue: {fileID: 11400000, guid: 6f29408a11db19a4785617bf8a65375d, type: 2}
+      nextScene: 

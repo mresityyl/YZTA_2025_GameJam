@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue17
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: "Bahad\u0131r."
+    animateText: 1
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Bu ismi duyunca, elimde olmadan bir kahkaha patlat\u0131verdim.
+        Sonras\u0131nda adam\u0131n al\u0131nmamas\u0131n\u0131 umarak a\xE7\u0131klamaya
+        koyuldum.\""
+      nextDialogue: {fileID: 11400000, guid: 42da1e350214ebd47b8ff524aef59b61, type: 2}
+      nextScene: 

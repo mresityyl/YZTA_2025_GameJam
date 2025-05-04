@@ -15,8 +15,11 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "Zaten buraya i\u015Fi d\xFC\u015Fenler, genelde benim gibi ya\u015Fl\u0131,
         sabah\xE7\u0131 tipler oluyor.  "
       nextDialogue: {fileID: 11400000, guid: c5c428b3fa686b149aeb7877bca6259b, type: 2}
+      nextScene: 

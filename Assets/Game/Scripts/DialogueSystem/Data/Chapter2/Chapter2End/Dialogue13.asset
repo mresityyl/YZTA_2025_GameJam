@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue13
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: "Belki g\xFClersiniz fakat anlayaca\u011F\u0131n\u0131z\u0131 san\u0131yorum.
+      Nitekim siz saatler ile hepimizden \xE7ok i\xE7li d\u0131\u015Fl\u0131s\u0131n\u0131z.
+      Biz bu saate bir isim bile koyduk. \u0130nsan hi\xE7, isim verdi\u011Fi bir
+      \u015Feyi atabilir mi?\r\n"
+    animateText: 1
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: ...
+      nextDialogue: {fileID: 11400000, guid: 1f8794f339c422f49ae462636e4f97c3, type: 2}
+      nextScene: 

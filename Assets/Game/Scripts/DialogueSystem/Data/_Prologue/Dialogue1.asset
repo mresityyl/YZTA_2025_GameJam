@@ -15,9 +15,12 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "Di\u011Ferlerini bilemem ama, g\xFCnler yine uzamaya ba\u015Flad\u0131\u011F\u0131
         i\xE7in ben son derece memnunum. D\xFCkkan\u0131 g\xFCne\u015Fin do\u011Fu\u015Fuyla
         a\xE7mak gibisi yok.  "
       nextDialogue: {fileID: 11400000, guid: 8aff541fda3c59b4488aa4fa49a3bda2, type: 2}
+      nextScene: 

@@ -18,8 +18,6 @@ public class DialogueManager : MonoBehaviour
     private DialogueObject currentDialogue;
     private int currentLineIndex;
 
-    public bool buttonTextAnimation;
-
     void Start()
     {
         StartDialogue(firstDialog);
@@ -39,7 +37,27 @@ public class DialogueManager : MonoBehaviour
         speakerNameText.text = line.speakerName;
 
         StopAllCoroutines();
-        StartCoroutine(TypeLine(line.text));
+        if (line.animateText)
+        {
+            dialogueText.text = "";
+            StartCoroutine(TypeLine(line.text));
+        }
+        else
+        {
+            dialogueText.text = line.text;
+
+            foreach (Transform child in choicesContainer.transform)
+                Destroy(child.gameObject);
+            // Seçenek varsa göster
+            if (line.choices != null && line.choices.Count > 0)
+            {
+                ShowChoices(line.choices);
+            }
+            else
+            {
+                choicesContainer.SetActive(false);
+            }
+        }
     }
 
     void ShowChoices(List<DialogueChoice> choices)
@@ -50,9 +68,13 @@ public class DialogueManager : MonoBehaviour
         {
             GameObject buttonObj = Instantiate(choiceButtonPrefab, choicesContainer.transform);
             Button button = buttonObj.GetComponent<Button>();
+
+            if(currentDialogue.lines[currentLineIndex].istThought)
+                buttonObj.GetComponent<Image>().color = new Color32(241, 213, 174, 255);
+
             button.interactable = false;
 
-            if (!buttonTextAnimation)
+            if (!currentDialogue.lines[currentLineIndex].istThought)
             {
                 button.interactable = true;
                 buttonObj.GetComponentInChildren<TextMeshProUGUI>().text = choice.choiceText;
@@ -112,7 +134,8 @@ public class DialogueManager : MonoBehaviour
         for (int i = 0; i < fullText.Length; i++)
         {
             textComponent.text += fullText[i];
-            yield return new WaitForSeconds(0.015f); // Yazma hýzýný ayarlamak için
+            yield return new WaitForSeconds(0.015f);
+            //yield return new WaitForSeconds(0.001f);
         }
 
         // Yazý tamamlandýðýnda buton týklanabilir hale gelsin

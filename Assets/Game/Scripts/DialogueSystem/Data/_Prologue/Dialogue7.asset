@@ -15,6 +15,8 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
+    buttonTextAnimation: 1
+    istThought: 1
     choices:
     - canPlayPuzzle: 0
       choiceText: "\u0130nsanlar\u0131n saatlerini tamir etmek, de\u011Ferli zamanlar\u0131n\u0131
@@ -22,3 +24,4 @@ MonoBehaviour:
         bunlar o eski g\xFCnlerime k\u0131yasla \xE7ok daha faydal\u0131, \xE7ok
         daha mutluluk verici\u2026 "
       nextDialogue: {fileID: 11400000, guid: 68c8fe52388f3664299e19870d856c4c, type: 2}
+      nextScene: 

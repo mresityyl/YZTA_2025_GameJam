@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue19
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: 'Evet.
+
+'
+    animateText: 1
+    istThought: 0
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "Garpl\u0131 ecnebiler de bu saate \u201Cbahriyeli saati\u201D
+        derler. Ne g\xFCzel d\xFC\u015F\xFCnm\xFC\u015Fs\xFCn\xFCz! "
+      nextDialogue: {fileID: 11400000, guid: 1aefeb1820fa3134d9b6d905bd04a8b9, type: 2}
+      nextScene: 

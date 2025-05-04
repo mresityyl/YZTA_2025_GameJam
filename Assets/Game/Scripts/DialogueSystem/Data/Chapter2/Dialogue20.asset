@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue20
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Zaman Yolcusu
+    text: 'Ama..?
+
+'
+    animateText: 1
+    istThought: 0
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "Haz\u0131r tamir edilecekken yenisini alman\u0131z sizin i\xE7in
+        daha hay\u0131rl\u0131 olabilir. Her \u015Fekilde par\xE7alar\u0131n de\u011Fi\u015Fmesi
+        gerek.  "
+      nextDialogue: {fileID: 11400000, guid: 74abf06fc8beb8e449c35355679fdaf9, type: 2}
+      nextScene: 
