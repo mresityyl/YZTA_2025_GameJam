@@ -1,3 +1,6 @@
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
 using UnityEngine;
 
 public class ButtonControl : MonoBehaviour
@@ -37,5 +40,17 @@ public class ButtonControl : MonoBehaviour
     {
         if (obj.CompareTag("PCB")) pcbCount = Mathf.Max(0, pcbCount - 1);
         if (obj.CompareTag("Screw")) screwCount = Mathf.Max(0, screwCount - 1);
+    }
+    public void PlayButton()
+    {
+        Scenecontroller.Instance.LoadNextScene("Prologue");
+    }
+    public void ExitButton()
+    {
+        Application.Quit();  // Build altında çalışır
+
+        #if UNITY_EDITOR
+        EditorApplication.ExitPlaymode();  // Editörde Play Mode’u durdurur
+        #endif
     }
 }
