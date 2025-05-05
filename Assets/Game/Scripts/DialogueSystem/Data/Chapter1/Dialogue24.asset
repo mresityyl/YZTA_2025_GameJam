@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue24
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: "m\xFC\u015Fteri"
+    text: "Hah! D\xFCnya h\u0131zl\u0131 ya\u015Fayanlar\u0131n d\xFCnyas\u0131,
+      dede! Ben ileride \xE7oooooooooooooook zengin olup k\u0131rk ya\u015F\u0131mda
+      emekli olaca\u011F\u0131m! Senin ya\u015F\u0131na gelip h\xE2l\xE2 \xE7al\u0131\u015Fmak
+      zorunda kalmak kula\u011Fa korkun\xE7 geliyor! \r\n"
+    animateText: 1
+    istThought: 0
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: ...
+      nextDialogue: {fileID: 11400000, guid: 5750182ba2e13954999be1b5533168e0, type: 2}
+      nextScene: 

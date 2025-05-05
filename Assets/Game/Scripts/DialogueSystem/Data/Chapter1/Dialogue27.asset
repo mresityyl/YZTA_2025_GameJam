@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue27
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: "m\xFC\u015Fteri"
+    text: "Tamamd\u0131r, sana g\xFCveniyorum\u2026 yani \u015Fey, b\xFCt\xFCn s\u0131n\u0131f
+      sana g\xFCveniyoruz!\r\n"
+    animateText: 1
+    istThought: 0
+    choices:
+    - canPlayPuzzle: 1
+      choiceText: ...
+      nextDialogue: {fileID: 0}
+      nextScene: Chapter1Puzzle

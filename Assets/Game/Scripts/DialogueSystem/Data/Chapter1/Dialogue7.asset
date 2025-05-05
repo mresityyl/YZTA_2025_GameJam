@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue7
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: "m\xFC\u015Fteri"
+    text: 
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"\u0130stifimi bozmadan, en az\u0131ndan daha \xF6nce zar zor
+        tezgah hizas\u0131na denk gelen bir m\xFC\u015Fterim oldu\u011Funu belli
+        etmemeye \xE7al\u0131\u015Farak, \xE7ocuk ile konu\u015Fmaya ba\u015Flad\u0131m.\""
+      nextDialogue: {fileID: 11400000, guid: c2ad23a1a7f4a13488d0e0c8a00aebd4, type: 2}
+      nextScene: 

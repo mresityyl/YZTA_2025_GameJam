@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue22
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: "m\xFC\u015Fteri"
+    text: "Saatsiz kal\u0131yorum de\u011Fil, kal\u0131yoruz. \xD6\u011Fretmenler
+      saati hep bana soruyor. E\u011Fer ben saati s\xF6ylemezsem de teneff\xFCsten
+      gidiyor. \u015Eu an t\xFCm s\u0131n\u0131f\u0131m\u0131n kaderi senin ellerinde,
+      dede! Ondan saatimin hemen olmas\u0131 laz\u0131m\u2026 Yoksa ben\u2026"
+    animateText: 1
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"\xC7ocu\u011Fun endi\u015Feden t\u0131rnaklar\u0131n\u0131 yemesine
+        ramak kalm\u0131\u015F gibi bir h\xE2li vard\u0131. Bir g\xFCnl\xFC\u011F\xFCne
+        saatini getirmemesinde bu kadar b\xFCy\xFCt\xFClecek bir \u015Fey olmamal\u0131yd\u0131.
+        \xC7ocuklar\u0131n telefonu, ak\u0131ll\u0131 saati al\u0131n\u0131p kitlense
+        bile \xF6\u011Fretmenler i\xE7in b\xF6yle bir durum yoktu sonu\xE7ta.\""
+      nextDialogue: {fileID: 11400000, guid: 079eb667f8b7c9b47a7b0ea26a3d1cdf, type: 2}
+      nextScene: 
