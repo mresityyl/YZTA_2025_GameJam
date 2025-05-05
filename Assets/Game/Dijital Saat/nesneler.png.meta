@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: 81ae611953742e441b1dc2252d5a4cbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6911224153863899622
+    second: nesneler_0
+  - first:
+      213: -2573646675106234270
+    second: nesneler_1
+  - first:
+      213: 1394470623719845713
+    second: nesneler_2
+  - first:
+      213: 397270548062578921
+    second: nesneler_3
+  - first:
+      213: 5398755816322791712
+    second: nesneler_4
+  - first:
+      213: -5224356805671903685
+    second: nesneler_5
+  - first:
+      213: -4996258431399173810
+    second: nesneler_6
+  - first:
+      213: 7051765477668458869
+    second: nesneler_7
+  - first:
+      213: -1502859140530582407
+    second: nesneler_8
+  - first:
+      213: 6972291433362731410
+    second: nesneler_9
+  - first:
+      213: 2303059778172100415
+    second: nesneler_10
+  - first:
+      213: 2957312770626081502
+    second: nesneler_11
+  - first:
+      213: -8397425640047825079
+    second: nesneler_12
+  - first:
+      213: -495696625202265766
+    second: nesneler_13
+  - first:
+      213: 6255585764716396917
+    second: nesneler_14
+  - first:
+      213: -4832147322920880892
+    second: nesneler_15
+  - first:
+      213: 4089958173498082527
+    second: nesneler_16
+  - first:
+      213: -14568633107478169
+    second: nesneler_17
+  - first:
+      213: -2661261285390210534
+    second: nesneler_18
+  - first:
+      213: -1881599776152834603
+    second: nesneler_19
+  - first:
+      213: -7335499982109239246
+    second: nesneler_20
+  - first:
+      213: 8885097951931075979
+    second: nesneler_21
+  - first:
+      213: -3866055275856829977
+    second: nesneler_22
+  - first:
+      213: -5813567063945462824
+    second: nesneler_23
+  - first:
+      213: -4696906011221365954
+    second: nesneler_24
+  - first:
+      213: 1722235489775375715
+    second: nesneler_25
+  - first:
+      213: 852545995008694440
+    second: nesneler_26
+  - first:
+      213: -8339097473786563679
+    second: nesneler_27
+  - first:
+      213: 370942465712413725
+    second: nesneler_28
+  - first:
+      213: -494710516605703303
+    second: nesneler_29
+  - first:
+      213: 1118504086455422549
+    second: nesneler_30
+  - first:
+      213: 3546691635391290022
+    second: nesneler_31
+  - first:
+      213: -2151582607358010560
+    second: nesneler_32
+  - first:
+      213: 2918267821268376666
+    second: nesneler_33
+  - first:
+      213: -8871454796535661474
+    second: nesneler_34
+  - first:
+      213: 6550598922793203461
+    second: nesneler_35
+  - first:
+      213: 9220659823096616738
+    second: nesneler_36
+  - first:
+      213: 1935425547136986212
+    second: nesneler_37
+  - first:
+      213: 1402751590917692863
+    second: nesneler_38
+  - first:
+      213: -2329691646396969707
+    second: nesneler_39
+  - first:
+      213: 6942732761856492006
+    second: nesneler_40
+  - first:
+      213: 1318354122750068968
+    second: nesneler_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nesneler_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 510
+        width: 368
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9482e20c999ef50800000000000000
+      internalID: 6911224153863899622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 292
+        width: 216
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2608de81cf1984cd0800000000000000
+      internalID: -2573646675106234270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 435
+        width: 219
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fe980e4a72a5310800000000000000
+      internalID: 1394470623719845713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_3
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 545
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8aef86573638500800000000000000
+      internalID: 397270548062578921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_4
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 539
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0297ef4afcb3cea40800000000000000
+      internalID: 5398755816322791712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_5
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 435
+        width: 221
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e18024a2b5f77b0800000000000000
+      internalID: -5224356805671903685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 20
+        width: 464
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e66e8d69b9aab0800000000000000
+      internalID: -4996258431399173810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_7
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 409
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5719acf0757ecd160800000000000000
+      internalID: 7051765477668458869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_8
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 451
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cc93df295c42be0800000000000000
+      internalID: -1502859140530582407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 141
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b51c2e1e82c060800000000000000
+      internalID: 6972291433362731410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_10
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 68
+        width: 81
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f10768aac16ff10800000000000000
+      internalID: 2303059778172100415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_11
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 70
+        width: 79
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2d4eedb4c7a0920800000000000000
+      internalID: 2957312770626081502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_12
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 289
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f21313fd9567b80800000000000000
+      internalID: -8397425640047825079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_13
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 287
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a518572bb8eee19f0800000000000000
+      internalID: -495696625202265766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_14
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 374
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57149e70c1e40d650800000000000000
+      internalID: 6255585764716396917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_15
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 311
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40532f29c93c0fcb0800000000000000
+      internalID: -4832147322920880892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_16
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 310
+        width: 66
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd40f8d0a4372c830800000000000000
+      internalID: 4089958173498082527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_26
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 226
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8dc23c01ad4db00800000000000000
+      internalID: 852545995008694440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_27
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 225
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3389fa703954c80800000000000000
+      internalID: -8339097473786563679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_28
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 201
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c55ec053ad52500800000000000000
+      internalID: 370942465712413725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_33
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 37
+        width: 205
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c972e2f15cf7820800000000000000
+      internalID: 2918267821268376666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_38
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 33
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd53ccc323977310800000000000000
+      internalID: 1402751590917692863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nesneler_39
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 33
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d40547ac54bafd0800000000000000
+      internalID: -2329691646396969707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3405532268b3fae48b11d671eb93341a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nesneler_0: 6911224153863899622
+      nesneler_1: -2573646675106234270
+      nesneler_10: 2303059778172100415
+      nesneler_11: 2957312770626081502
+      nesneler_12: -8397425640047825079
+      nesneler_13: -495696625202265766
+      nesneler_14: 6255585764716396917
+      nesneler_15: -4832147322920880892
+      nesneler_16: 4089958173498082527
+      nesneler_17: -14568633107478169
+      nesneler_18: -2661261285390210534
+      nesneler_19: -1881599776152834603
+      nesneler_2: 1394470623719845713
+      nesneler_20: -7335499982109239246
+      nesneler_21: 8885097951931075979
+      nesneler_22: -3866055275856829977
+      nesneler_23: -5813567063945462824
+      nesneler_24: -4696906011221365954
+      nesneler_25: 1722235489775375715
+      nesneler_26: 852545995008694440
+      nesneler_27: -8339097473786563679
+      nesneler_28: 370942465712413725
+      nesneler_29: -494710516605703303
+      nesneler_3: 397270548062578921
+      nesneler_30: 1118504086455422549
+      nesneler_31: 3546691635391290022
+      nesneler_32: -2151582607358010560
+      nesneler_33: 2918267821268376666
+      nesneler_34: -8871454796535661474
+      nesneler_35: 6550598922793203461
+      nesneler_36: 9220659823096616738
+      nesneler_37: 1935425547136986212
+      nesneler_38: 1402751590917692863
+      nesneler_39: -2329691646396969707
+      nesneler_4: 5398755816322791712
+      nesneler_40: 6942732761856492006
+      nesneler_41: 1318354122750068968
+      nesneler_5: -5224356805671903685
+      nesneler_6: -4996258431399173810
+      nesneler_7: 7051765477668458869
+      nesneler_8: -1502859140530582407
+      nesneler_9: 6972291433362731410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
