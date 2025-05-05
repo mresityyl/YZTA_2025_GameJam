@@ -63,5 +63,7 @@ public class TaskManager : MonoBehaviour
     {
         yield return new WaitUntil(() => taskDone.done);
 
+        Scenecontroller.Instance.LoadNextScene("Chapter1End");
+
     }
 }
