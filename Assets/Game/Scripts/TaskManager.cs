@@ -4,9 +4,19 @@ using System.Numerics;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using TMPro;
 
 public class TaskManager : MonoBehaviour
 {
+
+    [SerializeField] 
+    private TMP_Text taskCounterText;   // Drag your TaskCounterText here in the Inspector 
+    
+    public GameObject panelUI;
+    private int completedpush = 0;
+    private int totalpush = 3;
+    private int completedpanel = 0;
+    private int totalpanel = 1;  
     public static TaskManager Instance { get; private set; }
     [Tooltip("0–2: place puzzles, 3: cable puzzle")]
     private bool[] tasksDone = new bool[4];
@@ -24,6 +34,11 @@ public class TaskManager : MonoBehaviour
 
         mainCamera = Camera.main;
     }
+    void Start()
+    {
+        // Initialize display
+        UpdateTaskCounterUI();
+    }
     public void MarkTaskDone(int taskID)
     {
         if (taskID < 0 || taskID >= tasksDone.Length) return;
@@ -31,6 +46,16 @@ public class TaskManager : MonoBehaviour
 
         tasksDone[taskID] = true;
         Debug.Log($"Task {taskID} done!");
+    	if(taskID >= 0 && taskID <= 2)
+	    {
+	        completedpush = Mathf.Clamp(completedpush + 1, 0, totalpush);
+            UpdateTaskCounterUI();
+	    }
+	    else
+	    {
+	        completedpanel = Mathf.Clamp(completedpanel + 1, 0, totalpanel);
+            UpdateTaskCounterUI();
+	    }
 
         // Tüm görevler tamamlandı mı?
         if (AllTasksCompleted())
@@ -43,6 +68,11 @@ public class TaskManager : MonoBehaviour
             if (!done) return false;
         return true;
     }
+    private void UpdateTaskCounterUI()
+    {
+        // Using C# string interpolation to form "X/Y"
+        taskCounterText.text = $"Yapilmasi Gerekenler:\n1. Yerlerinden cikmis olan elektronik bilesenleri yerlerine yerlestir. ({completedpush}/{totalpush})\n2. Elektrik kacagi olan yeri bul ve tamir et. ({completedpanel}/{totalpanel})";
+    }
 
     private IEnumerator InstantiateScrewPuzzle()
     {
@@ -51,6 +81,7 @@ public class TaskManager : MonoBehaviour
 
         UnityEngine.Vector3 pos = mainCamera.transform.position + spawnOffset;
         currentTask = Instantiate(task, pos, UnityEngine.Quaternion.identity);
+        panelUI.SetActive(false);
         toolsBar.SetActive(true);
         Transform bg = currentTask.transform.Find("BackGround");
         taskDone = bg.GetComponent<TaskDone>();

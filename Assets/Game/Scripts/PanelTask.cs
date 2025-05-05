@@ -6,6 +6,7 @@ using UnityEngine;
 
 public class PanelTask : MonoBehaviour
 {
+    public GameObject panelUI;
     private int taskID = 3;
     public GameObject task;
     private TaskDone taskDone;
@@ -32,6 +33,7 @@ public class PanelTask : MonoBehaviour
             if(currentTask == null)
             {
                 currentTask = Instantiate(task,taskPosition,taskRotation,mainCamera.transform);
+		        panelUI.SetActive(false);
                 Transform bg = currentTask.transform.Find("Background");
                 taskDone = bg.GetComponent<TaskDone>();
                 move.move = false;
@@ -47,6 +49,7 @@ public class PanelTask : MonoBehaviour
         yield return new WaitUntil(() => taskDone.done);
 
         panelParticle.Stop();
+	    panelUI.SetActive(true);
 
         // Paneli yok et ve karakteri serbest bırak
         Destroy(currentTask);
