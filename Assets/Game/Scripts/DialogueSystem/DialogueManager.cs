@@ -110,8 +110,8 @@ public class DialogueManager : MonoBehaviour
         foreach (char c in lines)
         {
             dialogueText.text += c;
-            //yield return new WaitForSeconds(0.02f);
-            yield return new WaitForSeconds(0.001f);
+            yield return new WaitForSeconds(0.02f);
+            //yield return new WaitForSeconds(0.001f);
 
         }
 
@@ -136,8 +136,8 @@ public class DialogueManager : MonoBehaviour
         for (int i = 0; i < fullText.Length; i++)
         {
             textComponent.text += fullText[i];
-            //yield return new WaitForSeconds(0.015f);
-            yield return new WaitForSeconds(0.001f);
+            yield return new WaitForSeconds(0.015f);
+            //yield return new WaitForSeconds(0.001f);
         }
 
         // Yazý tamamlandýðýnda buton týklanabilir hale gelsin
