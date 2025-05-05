@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Morkablo_0: 869221923891814376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

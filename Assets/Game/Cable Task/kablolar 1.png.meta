@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kablolar 1_0: -3509778467214618980
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
