@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue26
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: "m\xFC\u015Fteri"
+    text: "Ne zaman annem b\xF6yle \u015Feyler dese\u2026 beni terk etmeye haz\u0131rlan\u0131yor
+      diye d\xFC\u015F\xFCn\xFCyorum. Di\u011Fer yandan da diyorum ki acele etmem
+      laz\u0131m. Bir an \xF6nce b\xFCy\xFCsem, zengin olsam, tedavi masraflar\u0131n\u0131
+      kar\u015F\u0131lasam\u2026 E\u011Fer hemen b\xFCy\xFCmezsem bunlar\u0131n hi\xE7birini
+      yapmaya yeti\u015Femem."
+    animateText: 1
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Annesinin hastal\u0131\u011F\u0131n\u0131n ne oldu\u011Funu
+        merak etmeye ba\u015Flad\u0131m. Milyonlar\u0131 \xF6ld\xFCren, y\u0131k\u0131c\u0131
+        hastal\u0131klar\u0131n zaman ve teknoloji ilerledik\xE7e hi\xE7bir \u015Feye
+        indirildi\u011Fini defalarca g\xF6rm\xFC\u015Ft\xFCm. \""
+      nextDialogue: {fileID: 11400000, guid: 9819d082851391f4b8b2cd0645ba928e, type: 2}
+      nextScene: 

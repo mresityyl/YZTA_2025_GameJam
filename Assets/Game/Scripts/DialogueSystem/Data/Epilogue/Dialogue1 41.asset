@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 41
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: "Saati ald\u0131\u011F\u0131m yaz, b\xFCy\xFCkbabama Alzheimer te\u015Fhisi
+      konuldu."
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Bir daha asla beraber bir gelece\u011Fimizin olmayaca\u011F\u0131
+        insanlar\u0131 ge\xE7mi\u015Fte ya\u015Fatmak i\xE7in verdi\u011Fimiz bu
+        \xE7abay\u0131, etkileyici buluyorum.\""
+      nextDialogue: {fileID: 11400000, guid: d63de340579dfed43ba182f764d2920f, type: 2}
+      nextScene: 

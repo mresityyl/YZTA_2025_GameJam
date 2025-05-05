@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 58
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: "Ard\u0131ndan benim i\xE7in ne anlam ifade etti\u011Fini bilirseniz iltifatlar\u0131m
+      daha samimi olur diye d\xFC\u015F\xFCnd\xFC\u011F\xFCm i\xE7in. "
+    animateText: 1
+    istThought: 0
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: ...
+      nextDialogue: {fileID: 11400000, guid: 88846cdba24437d45bb0aa9122d796ee, type: 2}
+      nextScene: 

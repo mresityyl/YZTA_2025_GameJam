@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Dialogue10
   m_EditorClassIdentifier: 
   lines:
-  - speakerName: Zaman Yolcusu
+  - speakerName: "m\xFC\u015Fteri"
     text: "Ailece \xE7ok seviyoruz da ondan. \r\n"
     animateText: 1
     istThought: 0

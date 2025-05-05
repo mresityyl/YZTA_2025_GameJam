@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 25
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: "Yanl\u0131\u015F anla\u015F\u0131lmas\u0131n. Ben hi\xE7 okumad\u0131m.
+      Kitap abimin raf\u0131nda duruyor da. Buran\u0131n da ismi ne zaman \xF6n\xFCnden
+      y\xFCr\xFCsem hep dikkatimi \xE7ekiyordu."
+    animateText: 1
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Birazc\u0131k kendimi \xF6vmekten bir zarar \xE7\u0131kmaz,
+        diye d\xFC\u015F\xFCnd\xFCm.\""
+      nextDialogue: {fileID: 11400000, guid: b5e66341b5283914c8be80d059abe97a, type: 2}
+      nextScene: 

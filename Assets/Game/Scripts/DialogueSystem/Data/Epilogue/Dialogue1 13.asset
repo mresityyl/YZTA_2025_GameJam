@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 13
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: "\u015Eey\u2026 E\u011Fer tamir edilemeyecekse l\xFCtfen s\xF6yleyin."
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Zaten farkl\u0131 \xFCniversitelere gitmi\u015F, farkl\u0131
+        \u015Fehirlerde ya\u015Famaya ba\u015Flam\u0131\u015Ft\u0131k.\""
+      nextDialogue: {fileID: 11400000, guid: f034721f05b5d3e478fb55fa47f92e4c, type: 2}
+      nextScene: 

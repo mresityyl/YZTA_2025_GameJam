@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Dialogue14
   m_EditorClassIdentifier: 
   lines:
-  - speakerName: Zaman Yolcusu
+  - speakerName: "m\xFC\u015Fteri"
     text: "Belki g\xFClersiniz fakat anlayaca\u011F\u0131n\u0131z\u0131 san\u0131yorum.
       Nitekim siz saatler ile hepimizden \xE7ok i\xE7li d\u0131\u015Fl\u0131s\u0131n\u0131z.
       Biz bu saate bir isim bile koyduk. \u0130nsan hi\xE7, isim verdi\u011Fi bir

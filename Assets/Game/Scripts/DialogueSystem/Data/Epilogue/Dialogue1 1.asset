@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 1
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: 
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Kap\u0131n\u0131n kapat\u0131l\u0131\u015F\u0131 sessizdi. At\u0131lan
+        ad\u0131mlar da. M\xFC\u015Fteri, tezgaha kadar gelmedi. Kendisini tan\u0131tmad\u0131.
+        Benden bir izin beklermi\u015F gibi odan\u0131n ortas\u0131nda dikildi yaln\u0131zca.\""
+      nextDialogue: {fileID: 11400000, guid: 2dce9f021d3b5b34193ad6714513f866, type: 2}
+      nextScene: 

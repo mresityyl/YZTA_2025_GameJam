@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 38
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: "Saati ald\u0131\u011F\u0131m yaz, b\xFCy\xFCkbabama Alzheimer te\u015Fhisi
+      konuldu."
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"\xD6l\xFCm\xFC zamandan ay\u0131rmak, bana hep imkans\u0131z
+        gelmi\u015Ftir. Belki en ac\u0131 verici \xF6l\xFCmler, zamans\u0131z dedi\u011Fimiz
+        \xF6l\xFCmler oldu\u011Fu i\xE7in.\""
+      nextDialogue: {fileID: 11400000, guid: 2c794917055a0354a9826883dcfa95c6, type: 2}
+      nextScene: 

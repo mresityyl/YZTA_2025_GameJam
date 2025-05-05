@@ -110,7 +110,9 @@ public class DialogueManager : MonoBehaviour
         foreach (char c in lines)
         {
             dialogueText.text += c;
-            yield return new WaitForSeconds(0.02f);
+            //yield return new WaitForSeconds(0.02f);
+            yield return new WaitForSeconds(0.001f);
+
         }
 
         // Seçenek varsa göster

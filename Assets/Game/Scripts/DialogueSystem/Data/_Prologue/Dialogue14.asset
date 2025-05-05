@@ -15,10 +15,10 @@ MonoBehaviour:
   lines:
   - speakerName: Saat Tamircisi
     text: 
-    buttonTextAnimation: 1
+    animateText: 0
     istThought: 1
     choices:
     - canPlayPuzzle: 1
       choiceText: "Bakal\u0131m bug\xFCn nas\u0131l m\xFC\u015Fteriler g\xF6rece\u011Fim..? "
       nextDialogue: {fileID: 0}
-      nextScene: Chapter2
+      nextScene: Chapter1

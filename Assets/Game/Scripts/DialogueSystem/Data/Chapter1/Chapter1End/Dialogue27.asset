@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue27
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: "m\xFC\u015Fteri"
+    text: "Ne zaman annem b\xF6yle \u015Feyler dese\u2026 beni terk etmeye haz\u0131rlan\u0131yor
+      diye d\xFC\u015F\xFCn\xFCyorum. Di\u011Fer yandan da diyorum ki acele etmem
+      laz\u0131m. Bir an \xF6nce b\xFCy\xFCsem, zengin olsam, tedavi masraflar\u0131n\u0131
+      kar\u015F\u0131lasam\u2026 E\u011Fer hemen b\xFCy\xFCmezsem bunlar\u0131n hi\xE7birini
+      yapmaya yeti\u015Femem."
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Benim do\u011Fdu\u011Fum zaman olan 21. y\xFCzy\u0131l ba\u015Flar\u0131nda
+        ne Alzheimer\u2019\u0131n ne de kanserin tam bir tedavisi vard\u0131. Ancak
+        bu \xE7ocu\u011Fun ya\u015Fad\u0131\u011F\u0131 y\u0131llar i\xE7in bunlar,
+        \xF6nemsiz ve unutulmu\u015F hastal\u0131klard\u0131.\""
+      nextDialogue: {fileID: 11400000, guid: 47c8781cc2899ad48a543cf0a9ddf07f, type: 2}
+      nextScene: 

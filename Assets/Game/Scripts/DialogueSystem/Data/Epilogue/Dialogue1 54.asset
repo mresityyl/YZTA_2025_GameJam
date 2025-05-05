@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 54
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: "Saatleri zaman\u0131 \xF6l\xE7mek i\xE7in yap\u0131yoruz, ama onlar da
+      zamanla \xE7al\u0131\u015Fmay\u0131 b\u0131rakabiliyor."
+    animateText: 0
+    istThought: 0
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "Saatin hik\xE2yesini b\xF6ylesi detayl\u0131 \u015Fekilde benimle
+        payla\u015Fman\u0131z\u0131n bir sebebi var m\u0131yd\u0131? "
+      nextDialogue: {fileID: 11400000, guid: 3088c077356237041834a0eccdddb72b, type: 2}
+      nextScene: 

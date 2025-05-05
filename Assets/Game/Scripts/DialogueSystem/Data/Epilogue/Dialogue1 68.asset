@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 68
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: 
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Bir s\xFCre evimin yak\u0131nlar\u0131nda bo\u015F bo\u015F
+        dola\u015Ft\u0131ktan, di\u011Fer ma\u011Fazalar\u0131n ve d\xFCkkanlar\u0131n
+        kapan\u0131\u015F\u0131n\u0131 izledikten sonra kendimi bir parkta buldum.\""
+      nextDialogue: {fileID: 11400000, guid: 6b74bfadbdbe24f49a7406d3d975971b, type: 2}
+      nextScene: 

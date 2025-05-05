@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Dialogue6
   m_EditorClassIdentifier: 
   lines:
-  - speakerName: Zaman Yolcusu
+  - speakerName: "m\xFC\u015Fteri"
     text: "Ah, ger\xE7ekten de tamir etmi\u015Fsiniz! Siz zanaatk\xE2rlar, halk\u0131n
       \xE7\u0131nar\u0131s\u0131n\u0131z! \r\n"
     animateText: 1

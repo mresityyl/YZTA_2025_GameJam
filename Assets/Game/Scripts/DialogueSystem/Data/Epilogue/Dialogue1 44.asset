@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 44
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: "Sonu\xE7ta \xE7ok k\xFC\xE7\xFCk bir saat. Rengi de uygun. O y\xFCzden
+      bana kalbi hat\u0131rlat\u0131yor. Sizce de \xF6yle de\u011Fil mi?\r\n"
+    animateText: 0
+    istThought: 0
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "Evet\u2026 Ger\xE7ekten de \xF6yle. Herhalde insanlar bu y\xFCzden
+        ceketlerinin i\xE7 ceplerinde saatler ta\u015F\u0131m\u0131\u015Flar. "
+      nextDialogue: {fileID: 11400000, guid: cc135bac0f3118f479a9b205d0858a99, type: 2}
+      nextScene: 

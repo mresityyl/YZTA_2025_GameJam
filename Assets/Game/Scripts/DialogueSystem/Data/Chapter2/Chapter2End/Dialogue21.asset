@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Dialogue21
   m_EditorClassIdentifier: 
   lines:
-  - speakerName: Zaman Yolcusu
+  - speakerName: "m\xFC\u015Fteri"
     text: "Te\u015Fekk\xFCr ederim. Ayn\u0131 vakitte ya\u015Fand\u0131\u011F\u0131
       s\xFCrece, ayn\u0131 d\xFC\u015F\xFCncelerin de ak\u0131l edilmesi herhalde
       ka\xE7\u0131n\u0131lmaz olacak. \r\n"

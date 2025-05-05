@@ -116,13 +116,13 @@ TextureImporter:
       name: Retro_Textbox_01-A_Transparent_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 6
-        width: 1252
-        height: 272
+        x: 0
+        y: 0
+        width: 1280
+        height: 285
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 223, y: 0, z: 289, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a67be2d5c1ff499419c6ba8d07241092
     internalID: 0
     vertices: []
     indices: 

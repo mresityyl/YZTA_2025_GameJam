@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 21
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: "Tabii, te\u015Fekk\xFCr ederim."
+    animateText: 1
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Korktu\u011Fumun aksine hemen \xE7\u0131kmad\u0131, g\xF6zleriyle
+        beni tar\u0131yor, saatin tamir edilme i\u015Fi \xF6nemsiz bir detaym\u0131\u015Fcas\u0131na
+        benimle konu\u015Fmak i\xE7in bir ba\u015Fka sebep ar\u0131yordu.\""
+      nextDialogue: {fileID: 11400000, guid: df494180fedb04e42a4f2952ffaa91e6, type: 2}
+      nextScene: 

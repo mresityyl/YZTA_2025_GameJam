@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 14
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: "\u015Eey\u2026 E\u011Fer tamir edilemeyecekse l\xFCtfen s\xF6yleyin."
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Yine de onun tan\u0131d\u0131\u011F\u0131, bildi\u011Fi abisi
+        olarak hayat\u0131ndan bu kadar bihaberken bir yabanc\u0131 olarak ona yard\u0131m\u0131m\u0131n
+        dokunmas\u0131ndaki ironiyi g\xF6rmezden gelemiyordum.\""
+      nextDialogue: {fileID: 11400000, guid: f100a7a88531a6d41aa2d9ffbee17ba7, type: 2}
+      nextScene: 

@@ -10,15 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
-  m_Name: Dialogue1
+  m_Name: Dialogue1 5
   m_EditorClassIdentifier: 
   lines:
-  - speakerName: Zaman Yolcusu
+  - speakerName: Saat Tamircisi
     text: 
     animateText: 0
     istThought: 1
     choices:
     - canPlayPuzzle: 0
-      choiceText: "\"D\xFCkkan zili t\u0131ng\u0131rt\u0131s\u0131  \""
-      nextDialogue: {fileID: 11400000, guid: f00dff359fe1d0343b52a59980cb1bac, type: 2}
+      choiceText: "\"O karakterleri bana \xF6\u011Freten, \u015Fu anda da tan\u0131mam\u0131
+        sa\u011Flayan ki\u015Fi, k\u0131z karde\u015Fimdi.\""
+      nextDialogue: {fileID: 11400000, guid: bedc392b94f5d3149a49cda7551ba64e, type: 2}
       nextScene: 

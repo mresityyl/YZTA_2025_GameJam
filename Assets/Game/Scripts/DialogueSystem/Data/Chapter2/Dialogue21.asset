@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Dialogue21
   m_EditorClassIdentifier: 
   lines:
-  - speakerName: Zaman Yolcusu
+  - speakerName: "m\xFC\u015Fteri"
     text: 'Ama..?
 
 '

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 66
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: 
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"G\xFCne\u015Fin do\u011Fumuyla ba\u015Flayan, bat\u0131m\u0131yla
+        biten bir ba\u015Fka i\u015F g\xFCn\xFCn\xFC de geride b\u0131rakt\u0131m
+        diye d\xFC\u015F\xFCn\xFCyordum. D\u0131\u015Far\u0131 \xE7\u0131kt\u0131\u011F\u0131mda
+        hemen evime gitmek konusunda, nedense o g\xFCn\xFCn m\xFC\u015Fterileri,
+        \xF6zellikle son m\xFC\u015Fterimden sonra isteksizdim.\""
+      nextDialogue: {fileID: 11400000, guid: 9de4d713929512e4b9e8104bf9942151, type: 2}
+      nextScene: 

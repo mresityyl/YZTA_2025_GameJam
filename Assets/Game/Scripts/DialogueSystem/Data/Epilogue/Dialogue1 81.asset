@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 81
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: 
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Oysa saat tamircili\u011Fi yapmadan \xF6nce, beni bir anlama
+        g\xF6t\xFCrebilmesi umuduyla bir t\xFCr zaman ajan\u0131, daha do\u011Frusu
+        zaman bek\xE7isi olarak \xE7al\u0131\u015Fm\u0131\u015Ft\u0131m.\""
+      nextDialogue: {fileID: 11400000, guid: 262e497bd1dd77549b06b5893f838725, type: 2}
+      nextScene: 

@@ -19,9 +19,8 @@ MonoBehaviour:
     istThought: 1
     choices:
     - canPlayPuzzle: 0
-      choiceText: "\"\xC7al\u0131\u015Fma masam\u0131 d\xFCzenleyeli daha yaln\u0131zca
-        birka\xE7 dakika olmu\u015Ftu ki gitgide yakla\u015Fan ko\u015Far ad\u0131mlar,
-        hemen sonras\u0131nda da d\xFCkkan kap\u0131s\u0131 her a\xE7\u0131ld\u0131\u011F\u0131nda
-        t\u0131ng\u0131rdayan zil sesini i\u015Fittim.  \""
-      nextDialogue: {fileID: 11400000, guid: a44c311044a6c0e43b9c5f2354809ced, type: 2}
+      choiceText: "\"Saatin dijital ekran\u0131n\u0131n geri d\xF6nmesinin ard\u0131ndan
+        geriye yap\u0131lmas\u0131 gereken tek bir \u015Fey kal\u0131yordu, do\u011Fru
+        zaman\u0131 ayarlamak. \""
+      nextDialogue: {fileID: 11400000, guid: 40b49c36254a0354cae0b7e1056ae25c, type: 2}
       nextScene: 

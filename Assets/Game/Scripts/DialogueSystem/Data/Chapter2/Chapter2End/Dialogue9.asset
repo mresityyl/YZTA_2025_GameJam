@@ -13,8 +13,9 @@ MonoBehaviour:
   m_Name: Dialogue9
   m_EditorClassIdentifier: 
   lines:
-  - speakerName: Zaman Yolcusu
+  - speakerName: "m\xFC\u015Fteri"
     text: 
+    animateText: 0
     istThought: 1
     choices:
     - canPlayPuzzle: 0

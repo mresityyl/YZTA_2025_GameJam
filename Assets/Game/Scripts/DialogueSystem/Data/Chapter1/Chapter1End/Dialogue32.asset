@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue32
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: "m\xFC\u015Fteri"
+    text: 
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"K\xFC\xE7\xFCk m\xFC\u015Fterim, \u015Fa\u015Fk\u0131nl\u0131k
+        i\xE7inde ba\u015F\u0131n\u0131 sallamakla yetindi. Sonra da tezgahtan bana
+        paras\u0131n\u0131 uzatt\u0131.\""
+      nextDialogue: {fileID: 11400000, guid: 6654f8654465138479b5089c1af4c389, type: 2}
+      nextScene: 

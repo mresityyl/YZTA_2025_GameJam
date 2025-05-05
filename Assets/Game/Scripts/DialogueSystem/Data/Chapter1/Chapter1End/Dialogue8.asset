@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue8
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: "m\xFC\u015Fteri"
+    text: "Ger\xE7ekten de yapm\u0131\u015Fs\u0131n! Sende i\u015F var dede!"
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Sonras\u0131nda ise d\xFC\u015F\xFCnd\xFC\u011F\xFCm\xFCn aksine,
+        elime paray\u0131 tutu\u015Fturup ko\u015Far ad\u0131m d\xFCkkandan \xE7\u0131kmad\u0131. 
+        \""
+      nextDialogue: {fileID: 11400000, guid: c11935f1dfd43ec4fb5d77d973d0d6a5, type: 2}
+      nextScene: 

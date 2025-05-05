@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Dialogue14
   m_EditorClassIdentifier: 
   lines:
-  - speakerName: Zaman Yolcusu
-    text: "Sel\xE2m\xFCn aleyk\xFCm, esen duras\u0131n!\r\n"
+  - speakerName: "m\xFC\u015Fteri"
+    text: "Esen duras\u0131n!\r\n"
+    animateText: 0
     istThought: 0
     choices:
     - canPlayPuzzle: 0
-      choiceText: "Aleyk\xFCm selam, efendim. Acaba size nas\u0131l yard\u0131mc\u0131
+      choiceText: "Esenler olsun, efendim. Acaba size nas\u0131l yard\u0131mc\u0131
         olabilirim? "
       nextDialogue: {fileID: 11400000, guid: 4512bf128102ff447b00af84d884e594, type: 2}
       nextScene: 

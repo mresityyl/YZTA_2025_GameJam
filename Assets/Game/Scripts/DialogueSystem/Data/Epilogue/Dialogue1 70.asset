@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue1 70
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: Saat Tamircisi
+    text: 
+    animateText: 0
+    istThought: 1
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "\"Buradaki hi\xE7bir oyunca\u011F\u0131 bilmiyordum. Benim \xE7ocuklu\u011Fumda
+        kum olan zemin, art\u0131k plastik tu\u011Flalardan ibaretti. Yapayaln\u0131zd\u0131m,
+        ne bir oyun arkada\u015F\u0131m vard\u0131 ne karde\u015Flerim.\""
+      nextDialogue: {fileID: 11400000, guid: a32249d402442dd4eb524a62b606f7fd, type: 2}
+      nextScene: 

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Dialogue11
   m_EditorClassIdentifier: 
   lines:
-  - speakerName: Zaman Yolcusu
+  - speakerName: "m\xFC\u015Fteri"
     text: "Evet. Her \u015Feyimizi \xF6l\xE7erken bu saati kullanmay\u0131 seviyoruz.
       Ekmek pi\u015Firirken, su \u0131s\u0131t\u0131rken, oyun oynarken, di\u015Flerimizi
       f\u0131r\xE7alarken\u2026 Ald\u0131\u011F\u0131m\u0131z o g\xFCnden beri bizi

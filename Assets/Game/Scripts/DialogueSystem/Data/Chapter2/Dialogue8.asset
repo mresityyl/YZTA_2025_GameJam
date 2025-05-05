@@ -13,8 +13,9 @@ MonoBehaviour:
   m_Name: Dialogue8
   m_EditorClassIdentifier: 
   lines:
-  - speakerName: Zaman Yolcusu
-    text: "Sel\xE2m\xFCn aleyk\xFCm, esen duras\u0131n!\r\n"
+  - speakerName: "m\xFC\u015Fteri"
+    text: "Esen duras\u0131n!\r\n"
+    animateText: 0
     istThought: 1
     choices:
     - canPlayPuzzle: 0

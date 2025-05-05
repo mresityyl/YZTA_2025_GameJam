@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a89d9db4dc1111a46ad0f2b77dd747ca, type: 3}
+  m_Name: Dialogue21
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: "m\xFC\u015Fteri"
+    text: "Bu senenin ba\u015F\u0131nda s\u0131n\u0131flar\u0131m\u0131z de\u011Fi\u015Fti.
+      Yeni s\u0131n\u0131fa asla al\u0131\u015Famaya\u011F\u0131m\u0131 d\xFC\u015F\xFCn\xFCyordum.
+      Ama sonra s\u0131n\u0131f\u0131n saatini tutmaya ba\u015Flay\u0131nca herkes
+      ad\u0131m\u0131 \xF6\u011Frendi. Teneff\xFCsteki oyunlara beni de \xE7a\u011F\u0131rmaya
+      ba\u015Flad\u0131lar\u2026"
+    animateText: 1
+    istThought: 0
+    choices:
+    - canPlayPuzzle: 0
+      choiceText: "E\u011Fer okula saatin olmadan gidersen her \u015Feyin eski h\xE2line
+        d\xF6nece\u011Fini d\xFC\u015F\xFCnd\xFCn."
+      nextDialogue: {fileID: 11400000, guid: 8f2460e7c6ea48549bb984e3e63e8368, type: 2}
+      nextScene: 
