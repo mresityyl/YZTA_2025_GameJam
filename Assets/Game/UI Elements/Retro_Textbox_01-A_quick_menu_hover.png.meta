@@ -114,6 +114,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -284,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Retro_Textbox_01-A_quick_menu_hover_0: -370079042429847434
+      Retro_Textbox_01-A_quick_menu_hover_1: -5860719044001192734
+      Retro_Textbox_01-A_quick_menu_hover_2: 2215007204416773679
+      Retro_Textbox_01-A_quick_menu_hover_3: -4019540532047973254
+      Retro_Textbox_01-A_quick_menu_hover_4: 9083609290920888063
+      Retro_Textbox_01-A_quick_menu_hover_5: -3994821771500724109
+      Retro_Textbox_01-A_quick_menu_hover_6: -805860223084931051
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
