@@ -203,7 +203,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &28493279
@@ -290,7 +290,7 @@ SpriteRenderer:
   m_Size: {x: 3.38, y: 3.29}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &122320169
@@ -303,7 +303,7 @@ GameObject:
   m_Component:
   - component: {fileID: 122320170}
   - component: {fileID: 122320171}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -389,7 +389,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 138968619}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: 49-Place
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -497,7 +497,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &228092154
@@ -584,7 +584,7 @@ SpriteRenderer:
   m_Size: {x: 4.125, y: 6.875}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &237199591
@@ -671,7 +671,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &278321709
@@ -758,7 +758,7 @@ SpriteRenderer:
   m_Size: {x: 3.0625, y: 6.1875}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &313665330
@@ -845,7 +845,7 @@ SpriteRenderer:
   m_Size: {x: 4.125, y: 6.875}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &323508884
@@ -858,7 +858,7 @@ GameObject:
   m_Component:
   - component: {fileID: 323508885}
   - component: {fileID: 323508886}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1019,7 +1019,7 @@ SpriteRenderer:
   m_Size: {x: 8.8125, y: 12.1875}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &361824324
@@ -1106,7 +1106,7 @@ SpriteRenderer:
   m_Size: {x: 12.8125, y: 10.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &392201411
@@ -1123,7 +1123,7 @@ GameObject:
   - component: {fileID: 392201416}
   - component: {fileID: 392201415}
   - component: {fileID: 392201417}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Main Character
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -1182,7 +1182,7 @@ SpriteRenderer:
   m_Size: {x: 1.0625, y: 3.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &392201413
@@ -1321,7 +1321,7 @@ GameObject:
   m_Component:
   - component: {fileID: 483810291}
   - component: {fileID: 483810292}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1410,7 +1410,7 @@ GameObject:
   - component: {fileID: 507643413}
   - component: {fileID: 507643412}
   - component: {fileID: 507643411}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Place
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1782,7 +1782,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &540614527
@@ -1798,7 +1798,7 @@ GameObject:
   - component: {fileID: 540614530}
   - component: {fileID: 540614529}
   - component: {fileID: 540614528}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: 48
   m_TagString: movableObject
   m_Icon: {fileID: 0}
@@ -1944,7 +1944,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &540614532
@@ -2046,7 +2046,7 @@ SpriteRenderer:
   m_Size: {x: 4.9375, y: 3.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &580226717
@@ -2133,7 +2133,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &603015640
@@ -2148,7 +2148,7 @@ GameObject:
   - component: {fileID: 603015644}
   - component: {fileID: 603015643}
   - component: {fileID: 603015642}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Place
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2322,7 +2322,7 @@ MonoBehaviour:
   m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
-  m_ApplyToSortingLayers: 00000000134cbb8f
+  m_ApplyToSortingLayers: 00000000134cbb8ff595d201
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
@@ -2453,7 +2453,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &643580791
@@ -2540,7 +2540,7 @@ SpriteRenderer:
   m_Size: {x: 3.0625, y: 6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &676439140
@@ -2555,7 +2555,7 @@ GameObject:
   - component: {fileID: 676439144}
   - component: {fileID: 676439143}
   - component: {fileID: 676439142}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Place
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2776,7 +2776,7 @@ SpriteRenderer:
   m_Size: {x: 4.9375, y: 3.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &754490669
@@ -2863,7 +2863,7 @@ SpriteRenderer:
   m_Size: {x: 4.9375, y: 3.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &757801627
@@ -2876,7 +2876,7 @@ GameObject:
   m_Component:
   - component: {fileID: 757801628}
   - component: {fileID: 757801629}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: Ground_Board
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2990,7 +2990,7 @@ SpriteRenderer:
   m_Size: {x: 118.25, y: 38.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &768259622
@@ -3077,7 +3077,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &816725072
@@ -3164,7 +3164,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &817900076 stripped
@@ -3261,7 +3261,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &843979364
@@ -3348,7 +3348,7 @@ SpriteRenderer:
   m_Size: {x: 2.75, y: 2.625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &853217252
@@ -3435,7 +3435,7 @@ SpriteRenderer:
   m_Size: {x: 2.75, y: 2.625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &854633279
@@ -3522,7 +3522,7 @@ SpriteRenderer:
   m_Size: {x: 7.0625, y: 9.6875}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &896881238
@@ -3609,7 +3609,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &945919055
@@ -3621,7 +3621,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 945919056}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BackGround
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3729,7 +3729,7 @@ SpriteRenderer:
   m_Size: {x: 2.75, y: 2.625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1070218014
@@ -3816,7 +3816,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1073969929
@@ -3829,7 +3829,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1073969930}
   - component: {fileID: 1073969931}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3990,7 +3990,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1257149259
@@ -4077,7 +4077,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1417378306
@@ -4164,7 +4164,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1488856746
@@ -4251,7 +4251,7 @@ SpriteRenderer:
   m_Size: {x: 7.0625, y: 9.6875}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1489039149
@@ -4267,7 +4267,7 @@ GameObject:
   - component: {fileID: 1489039151}
   - component: {fileID: 1489039150}
   - component: {fileID: 1489039154}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: 47
   m_TagString: movableObject
   m_Icon: {fileID: 0}
@@ -4399,7 +4399,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1489039153
@@ -4515,7 +4515,7 @@ SpriteRenderer:
   m_Size: {x: 2.75, y: 2.625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1522002165
@@ -4602,7 +4602,7 @@ SpriteRenderer:
   m_Size: {x: 2.75, y: 2.625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1600525505
@@ -4689,7 +4689,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1603056643
@@ -4704,7 +4704,7 @@ GameObject:
   - component: {fileID: 1603056645}
   - component: {fileID: 1603056644}
   - component: {fileID: 1603056647}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4859,7 +4859,7 @@ GameObject:
   - component: {fileID: 1671636589}
   - component: {fileID: 1671636588}
   - component: {fileID: 1671636587}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: 49
   m_TagString: movableObject
   m_Icon: {fileID: 0}
@@ -5005,7 +5005,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1671636591
@@ -5032,7 +5032,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1707196780}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: 47-Place
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5140,7 +5140,7 @@ SpriteRenderer:
   m_Size: {x: 23, y: 7.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1760223635
@@ -5154,7 +5154,7 @@ GameObject:
   - component: {fileID: 1760223636}
   - component: {fileID: 1760223637}
   - component: {fileID: 1760223638}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Dukkan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5171,7 +5171,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 33.01423, y: 7.6067333, z: 0.4607097}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_LocalScale: {x: 10, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 945919056}
@@ -5183,7 +5183,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1760223635}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -5252,7 +5252,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1774339590}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: 48-Place
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5360,7 +5360,7 @@ SpriteRenderer:
   m_Size: {x: 3.0625, y: 6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1820805017
@@ -5447,7 +5447,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1887743713
@@ -5534,7 +5534,7 @@ SpriteRenderer:
   m_Size: {x: 13.8125, y: 13.0625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1928295933
@@ -5621,7 +5621,7 @@ SpriteRenderer:
   m_Size: {x: 29, y: 28.8125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1962456084
@@ -5708,7 +5708,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &2004240839
@@ -5721,7 +5721,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2004240841}
   - component: {fileID: 2004240840}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: TaskManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5842,7 +5842,7 @@ SpriteRenderer:
   m_Size: {x: 3.75, y: 3.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &2057762246
@@ -5929,7 +5929,7 @@ SpriteRenderer:
   m_Size: {x: 13.8125, y: 13.0625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1001 &2115461541
@@ -5946,7 +5946,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 496487244642044104, guid: effb650189dc5714e9e9801b1cfb3991, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 496487244642044110, guid: effb650189dc5714e9e9801b1cfb3991, type: 3}
       propertyPath: m_Materials.Array.size
@@ -5958,11 +5958,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 496487245117367874, guid: effb650189dc5714e9e9801b1cfb3991, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6566140890059193891, guid: effb650189dc5714e9e9801b1cfb3991, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 9027514048236820042, guid: effb650189dc5714e9e9801b1cfb3991, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6022,7 +6022,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9027514048236820045, guid: effb650189dc5714e9e9801b1cfb3991, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
